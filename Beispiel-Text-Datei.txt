@@ -1,4 +1,0 @@
-Beispiel-Text-Datei
-zweite Zeile
-dritte Zeile
-vierte Zeile
